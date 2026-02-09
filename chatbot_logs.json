@@ -1,0 +1,2 @@
+{}
+{"timestamp": "2026-02-09T16:53:43.799912", "level": "ERROR", "type": "error", "error_message": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.", "metadata": {"session_id": "8026c1f6-ed8f-4272-bff5-3f9319a343b2", "model": "gemini-1.5-flash", "user_id": "86e51335-dc4f-49a4-b25c-d7945e5eebb1"}}
